@@ -55,10 +55,13 @@ http://localhost/authentication-system/
 OUTPUT :
 login page 
 ![image](https://github.com/user-attachments/assets/f0fe5bcd-2f5b-46dd-baad-05b6f10dd175)
+
 register page :
 ![image](https://github.com/user-attachments/assets/f2e10f23-df35-413d-b09c-f128bcd6c094)
+
 backend :
-![image](https://github.com/user-attachments/assets/adf89505-0788-41c1-a1dc-f81a91fa4738)
+![image](https://github.com/user-attachments/assets/efaa8736-0c49-444b-ae49-42f3d58b6969)
+
 backend management :
 ![image](https://github.com/user-attachments/assets/733a4f33-f124-4c67-afa4-128a011a1d96)
 
